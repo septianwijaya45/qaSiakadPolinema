@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/septianwijaya45/qaSiakadPolinema/issues"
   },
-  "homepage": "https://github.com/septianwijaya45/qaSiakadPolinema#readme"
+  "homepage": "https://github.com/septianwijaya45/qaSiakadPolinema#readme",
+  "devDependencies": {
+    "cypress": "^8.2.0"
+  }
 }
